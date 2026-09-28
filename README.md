@@ -94,6 +94,7 @@ Drive axles use UV joints at the rear (better articulation, higher ground cleara
 
 <p align="center">
 <img width="562" height="305" alt="drivetrain_layout" src="https://github.com/user-attachments/assets/db84bd93-214d-4681-8a51-32438f6d503a" />
+<br>
 <em>Power train layout — engine and CVT feed the reduction gearbox, splitting power to the rear UV axles directly and to the front CV axles via propeller shaft and open differential.</em>
 </p>
 
