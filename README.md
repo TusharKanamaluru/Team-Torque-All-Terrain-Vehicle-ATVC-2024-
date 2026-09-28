@@ -53,9 +53,11 @@ Designed as a "nose" configuration, front bracing members don't extend to the fr
 <img width="723" height="478" alt="rollcage_isometric" src="https://github.com/user-attachments/assets/caacf97e-494f-40be-82e0-4c97bfafdf20" />
   <br>
 <em><b>Figure 2. Front View:</b> Front view of the nose-type roll cage architecture highlighting the arrangement of primary and secondary structural members. The design was optimized to improve frontal impact energy dissipation, enhance driver protection, and maintain structural rigidity while achieving a compact vehicle footprint.</em>
+  
   <br><br>
   
 <img width="396" height="448" alt="rollcage_front" src="https://github.com/user-attachments/assets/7f975048-8fc3-4ff5-84b3-2c9c80837d34" />
+
 <em><b>Figure 3. Isometric View:</b> Isometric representation of the AISI 4130 chromoly steel chassis showcasing the overall structural architecture and load-bearing member layout. The design emphasizes strength-to-weight optimization, manufacturability, and efficient load distribution across critical loading scenarios.</em>
 </tr>
 </table>
