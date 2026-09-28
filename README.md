@@ -11,8 +11,7 @@ Designed, fabricated, and competed with a full off-road all-terrain vehicle from
 
 <p align="center"><img width="1288" height="700" alt="cad_full_assembly" src="https://github.com/user-attachments/assets/e89b5e49-c19b-4bcd-a67c-42aadacae7de" />
 
-  <img src="images/cad_full_assembly.jpg" width="700">
-</p>
+
 
 ---
 
@@ -42,9 +41,7 @@ Designed as a "nose" configuration, front bracing members don't extend to the fr
 
 <table>
 <tr>
-<td align="center"><img src="images/rollcage_isometric.jpg" width="380"><br><em>Isometric view</em></td>
-<td align="center"><img src="images/rollcage_front.jpg" width="380"><br><em>Front view</em></td>
-</tr>
+
 </table>
 
 **CAE validation across every major loading scenario:**
@@ -58,10 +55,7 @@ Designed as a "nose" configuration, front bracing members don't extend to the fr
 | Torsional | 1G | 255.55 MPa | 8.10 mm | 1.8 |
 | Bump | 1G | 403.50 MPa | 13.61 mm | 1.1 |
 
-<p align="center">
-  <img src="images/cae_front_impact.jpg" width="600"><br>
-  <em>Ansys Static Structural front-impact deformation analysis on the roll cage.</em>
-</p>
+
 
 ---
 
@@ -73,8 +67,7 @@ The single biggest engineering change on this vehicle: converting from 2WD to a 
 
 Drive axles use UV joints at the rear (better articulation, higher ground clearance) and CV joints at the front (tripod inboard, Rzeppa outboard, reducing power losses while accommodating steering and suspension travel simultaneously).
 
-<p align="center">
-  <img src="images/drivetrain_layout.jpg" width="550"><br>
+
   <em>Power train layout — engine and CVT feed the reduction gearbox, splitting power to the rear UV axles directly and to the front CV axles via propeller shaft and open differential.</em>
 </p>
 
@@ -82,8 +75,7 @@ Drive axles use UV joints at the rear (better articulation, higher ground cleara
 
 The reduction gearbox itself was designed using the Lewis-Buckingham equations, then validated in Ansys, sized against the weaker of the two mating gears in each stage:
 
-<p align="center">
-  <img src="images/gearbox_fea.png" width="600"><br>
+
   <em>Ansys structural analysis on the reduction gearbox gear stage, validating maximum principal stress against yield strength for the chosen EN353 gear material.</em>
 </p>
 
@@ -95,9 +87,7 @@ Independent suspension throughout: **double wishbone (A-arms) up front**, **H-ar
 
 All suspension arms (front A-arms and rear H-arms) are fabricated from AISI 4130, 1" OD, 0.078" wall. Knuckles and uprights use **EN24 steel**, chosen after direct comparison against EN8, AL6061, and AL7075, achieving a factor of safety of 1.9–2.1 depending on the component. Shock absorbers are **FOX Float 3 air shocks**, selected for adjustable high/low-speed compression and rebound damping.
 
-<p align="center">
-  <img src="images/adams_suspension_kinematics.jpg" width="700">
-</p>
+
 <p align="center"><em>MSC Adams suspension kinematics analysis, used to validate geometry, roll center location, and motion ratio before fabrication.</em></p>
 
 ---
@@ -140,9 +130,7 @@ Total build cost: **₹4,19,911.40**, total vehicle weight: **142.4 kg**, broken
 
 Before this vehicle, the team competed in **BAJA SAEINDIA 2023**, physically qualifying through to Phase 3 and racing at the **NATRAX facility in Pithampur, Madhya Pradesh** (Feb 15–18, 2023). That vehicle's post-competition lessons learned, reduced triangulation improving strength-to-weight ratio by 80%, better suspension clamp lengths, and more jigs/fixtures to cut manufacturing error, directly informed several of the design decisions carried into the 2024 vehicle.
 
-<p align="center">
-  <img src="images/baja_saeindia_certificate.jpg" width="600">
-</p>
+
 
 ---
 
