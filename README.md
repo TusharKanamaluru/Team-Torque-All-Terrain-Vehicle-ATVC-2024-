@@ -10,10 +10,9 @@
 Designed, fabricated, and competed with a full off-road all-terrain vehicle from the ground up — chassis, drivetrain, suspension, steering, and braking — for the SAE ATVC 2024 competition. The team converted from 2WD to a full-time **4WD system**, cut chassis weight from 27 kg to 25 kg while shrinking the footprint by over 25 cm in length, and validated every subsystem through hand calculations, Ansys FEA, and MSC Adams multibody dynamics before manufacturing. The vehicle placed **3rd in design evaluation out of 120 teams**. Prior to this, the team competed in **BAJA SAEINDIA 2023**, physically qualifying and racing at the NATRAX facility in Pithampur.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TusharKanamaluru/Team-Torque-All-Terrain-Vehicle-ATVC-2024-/9e9284305a8cfcc1aca2bfccef3cfe/cad_full_assembly.jpg
-  <br>
-  <em>Figure 3. Full CAD assembly of the SAE ATVC 2024 vehicle showing the integration of all major subsystems prior to manufacturing and validation.</em>
+  <img src="images/cad_full_assembly.jpg" width="700">
 </p>
+
 ---
 
 ## Vehicle Overview
@@ -163,4 +162,4 @@ Before this vehicle, the team competed in **BAJA SAEINDIA 2023**, physically qua
 | `Prelims_2023-24.pptx` | Prior-year (BAJA SAEINDIA 2023) design and lessons-learned presentation |
 | `images/` | CAD renders, kinematics analysis, and competition documentation |
 
-**Team Contact:** I. Tushar Kanamaluri — Vice Captain- Team Toruque
+**Team Contact:** I. Rohan Aaron — Team Head
