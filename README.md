@@ -42,18 +42,17 @@ The chassis was fabricated using **AISI 4130 chromoly steel tubing**, selected f
 All joints were **TIG welded**, with filler rod selection tailored to tube material and section thickness at each connection. Emphasis was placed on process consistency, manufacturability, and weld quality, following continuous improvement principles commonly associated with Kaizen and quality-focused manufacturing systems.
 
 <p align="center">
-  chasis%20isometric%20view.jpg
+  <img src="./chasis%20isometric%20view.jpg" width="700r">
+  <em>Figure 1. Isometric view of the ATV chassis highlighting the nose-type roll cage configuration, optimized member layout, and AISI 4130 chromoly steel construction developed for SAE ATVC 2024.</em>
 </p>
 
 <p align="center">
-  <em>Figure 1: Isometric view of the ATV chassis highlighting the nose-type roll cage configuration, optimized member layout, and AISI 4130 chromoly steel construction developed for SAE ATVC 2024.</em>
+  ./chasis%20front%20view.jpg
 </p>
 
-
-./chasis%20front%20view.jpg
-
-*Figure 2. Front view of the chassis illustrating the nose-type roll cage architecture, optimized front-member placement, and compact vehicle packaging developed to enhance driver safety, structural efficiency, and manufacturability.*
-
+<p align="center">
+  <em>Figure 2. Front view of the chassis illustrating the nose-type roll cage architecture, optimized front-member placement, and compact vehicle packaging developed to enhance driver safety, structural efficiency, and manufacturability.</em>
+</p>
 
 ## CAE Validation
 
