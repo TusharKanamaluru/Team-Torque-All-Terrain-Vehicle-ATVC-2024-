@@ -2,7 +2,9 @@
 
 ## TL;DR
 
-Designed, fabricated, and competed with a full off-road all-terrain vehicle from the ground up — chassis, drivetrain, suspension, steering, and braking — for the SAE ATVC 2024 competition. The team converted from **2WD to a full-time 4WD system**, cut chassis weight from 27 kg to 25 kg while shrinking the footprint by over 25 cm in length, and validated every subsystem through hand calculations, Ansys FEA, and MSC Adams multibody dynamics before manufacturing. The vehicle placed **3rd in design evaluation out of 120 teams**. Prior to this, the team competed in **BAJA SAEINDIA 2023**, physically qualifying and racing at the NATRAX facility in Pithampur.
+Served as Vice Captain and Project Manager of the team, contributing to the design, fabrication, and testing of a full off-road all-terrain vehicle for the SAE ATVC 2024 competition. The team converted from **2WD to a full-time 4WD system**, reduced chassis weight from 27 kg to 25 kg, and shortened the vehicle footprint by over 25 cm while validating all major subsystems through hand calculations, Ansys FEA, and MSC Adams simulations. In addition to steering system development, I coordinated procurement activities, budgeting, sponsorship acquisition, and manufacturing planning, gaining valuable experience in managing both the technical and organizational aspects of a large engineering project. The vehicle secured **3rd place in Design Evaluation out of 120 teams**. Prior to this, the team competed in **BAJA SAEINDIA 2023**, qualifying for and racing at the NATRAX facility in Pithampur.
+
+
 
 
 ### Key Achievements
