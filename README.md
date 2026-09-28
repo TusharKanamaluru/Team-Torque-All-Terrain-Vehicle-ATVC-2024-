@@ -9,7 +9,10 @@
 
 Designed, fabricated, and competed with a full off-road all-terrain vehicle from the ground up — chassis, drivetrain, suspension, steering, and braking — for the SAE ATVC 2024 competition. The team converted from 2WD to a full-time **4WD system**, cut chassis weight from 27 kg to 25 kg while shrinking the footprint by over 25 cm in length, and validated every subsystem through hand calculations, Ansys FEA, and MSC Adams multibody dynamics before manufacturing. The vehicle placed **3rd in design evaluation out of 120 teams**. Prior to this, the team competed in **BAJA SAEINDIA 2023**, physically qualifying and racing at the NATRAX facility in Pithampur.
 
-<img width="700" height="700" alt="cad_full_assembly" src="https://github.com/user-attachments/assets/ab9f5bd5-a724-4a3a-98d8-15cd90c471cb" />
+<p align="
+  center"><img width="1288" height="700" alt="cad_full_assembly" src="https://github.com/user-attachments/assets/baf6e30e-c058-4247-be10-a5bbd258c711" />
+  </p>
+
 
   <em>Figure 3. Complete CAD assembly of the SAE ATVC 2024 vehicle integrating the chassis, drivetrain, suspension, steering, braking, and powertrain subsystems.</em>
 </p>
