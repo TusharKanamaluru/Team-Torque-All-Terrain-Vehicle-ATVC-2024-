@@ -12,7 +12,6 @@ Served as Vice Captain and Project Manager of the team, contributing to the desi
 
 The vehicle was developed around a unibody roll-cage architecture with a primary focus on driver safety, reliability, and off-road performance. Rather than iterating on previous designs, every major subsystem was independently researched, designed, analyzed, and validated to achieve measurable improvements in performance, manufacturability, and vehicle dynamics.
 
-As Vice Captain and Project Manager, I was involved in technical development as well as procurement planning, budgeting, sponsor coordination, and manufacturing execution, ensuring successful integration of engineering and project management activities throughout the vehicle development cycle.
 
 ### Key Improvements Over Previous Iteration
 
@@ -30,14 +29,14 @@ As Vice Captain and Project Manager, I was involved in technical development as 
 
 The transition to a full-time **4WD drivetrain**, adoption of **Anti-Ackermann steering geometry**, reduction in vehicle dimensions and chassis weight, and comprehensive validation through engineering calculations, Ansys FEA, and MSC Adams simulations contributed to a more responsive, compact, and capable off-road platform.
 
-### Key Achievements
-
-- 🏆 All India Rank 19
-- 🏆 3rd Place in Design Evaluation Category
-- 📐 Achieved a turning circle radius of 1.8 metres
-- 🤝 Secured and coordinated industry sponsorships
-- 🏭 Managed manufacturing and assembly activities
-- 📊 Led procurement, budgeting, and project planning
+Markdown
+## Chassis
+ 
+The chassis was designed using a **nose-type roll cage configuration**, where the front bracing members do not extend directly to the front bumper. This layout was selected to help redirect and dissipate frontal impact loads away from the driver while also improving side ingress and egress during emergency situations.
+ 
+The frame was fabricated using **AISI 4130 chromoly steel tubing**, chosen for its high strength-to-weight ratio and suitability for lightweight motorsport applications. Primary structural members utilized **1.15 in OD × 0.065 in wall thickness tubing**, while secondary members were constructed using **1.00 in OD tubing** to balance strength, packaging, and weight reduction objectives.
+ 
+To ensure structural integrity and manufacturing quality, all joints were **TIG welded**, with filler rod selection tailored to the tube material and section thickness at each connection. This approach enabled precise weld control while maintaining the mechanical properties required for off-road competition conditions.
 
 ---
 
