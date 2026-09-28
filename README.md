@@ -77,9 +77,10 @@ Designed as a "nose" configuration, front bracing members don't extend to the fr
 
 <p align="center">
 <img width="721" height="274" alt="cae_front_impact" src="https://github.com/user-attachments/assets/42af21a6-bef7-41ef-be44-cc46905e340e" />
+<br>
+<em>Figure 4. Ansys Static Structural front-impact deformation analysis on the roll cage.</em>
+</p>
 
- <em>Figure 4.Ansys Static Structural front-impact deformation analysis on the roll cage.</em>
-  </p>
 
 
 
