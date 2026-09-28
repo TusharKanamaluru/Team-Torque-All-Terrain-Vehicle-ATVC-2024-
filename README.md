@@ -48,15 +48,17 @@ The vehicle is a unibody roll-cage design built around one clear priority: drive
 Designed as a "nose" configuration, front bracing members don't extend to the front bumper, dissipating impact forces away from the driver while improving side entry/exit clearance for emergencies. Built from **AISI 4130** chromoly steel tubing, chosen specifically for its strength-to-weight ratio, with primary members at 1.15" OD / 0.065" wall and secondary members at 1" OD. All joints were TIG welded for precision and weld strength, with filler rod selection matched to tube thickness and material at each joint.
 
 <table>
-<tr>
-  <img width="396" height="448" alt="rollcage_front" src="https://github.com/user-attachments/assets/ea6b1bb7-4273-47ca-bfbb-ee6a2f7ac343" />
-  br><em> front view</em></td>
-  <img width="723" height="478" alt="rollcage_isometric" src="https://github.com/user-attachments/assets/7f24bb96-9326-4cb8-95f9-2b53778ef721" />
-  <em>Isometric view</em></td>
-  br><em> front view</em></td>
+  <tr>
+    <td align="center">
+      <img width="400" src="YOUR_FRONT_VIEW_IMAGE_LINK<b>Figure 2. Front View:</b> Front view of the nose-type roll cage architecture highlighting the arrangement of primary and secondary structural members. The design was optimized to improve frontal impact energy dissipation, enhance driver protection, and achieve a compact vehicle footprint while maintaining structural rigidity and compliance with SAE ATVC safety requirements.</em>
+    </td>
 
-  
-</tr>
+    <td align="center">
+      YOUR_ISOMETRIC_VIEW_IMAGE_LINK
+      <br>
+      <em><b>Figure 3. Isometric View:</b> Isometric representation of the AISI 4130 chromoly steel chassis showing the overall structural architecture and load-bearing member layout. The design emphasizes strength-to-weight optimization, manufacturability, and efficient load distribution under impact, rollover, torsional, and bump loading conditions.</em>
+    </td>
+  </tr>
 </table>
 
 <table>
