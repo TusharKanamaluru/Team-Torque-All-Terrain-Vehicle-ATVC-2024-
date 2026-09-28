@@ -8,7 +8,21 @@ Served as Vice Captain and Project Manager of the team, contributing to the desi
 ![image alt](https://github.com/TusharKanamaluru/Team-Torque-All-Terrain-Vehicle-ATVC-2024-/blob/4c782460d210d2538c9c9ef8a90a4e2ab88fbfff/cad_full_assembly.jpg)
 
 
+Vehicle Overview
+The vehicle is a unibody roll-cage design built around one clear priority: driver safety, without sacrificing performance on rough, unpredictable off-road terrain. Every subsystem was independently researched, designed, analyzed, and validated rather than copied from prior designs.
 
+Key upgrades from the previous vehicle iteration:
+
+Specification	Old	New
+Drive	2WD	4WD
+Frame weight	27 kg	25.03 kg
+Overall length	2108.2 mm	1832.35 mm
+Overall width	1489.6 mm	966.79 mm
+Steering mechanism	Ackermann	Anti-Ackermann
+Steering ratio	12:1	6.4:1
+Top speed	53 kmph	56 kmph
+Max torque	520 Nm	524.20 Nm
+Gradeability	64%	65%
 
 ### Key Achievements
 
