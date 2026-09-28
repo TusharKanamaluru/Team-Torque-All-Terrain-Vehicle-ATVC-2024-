@@ -8,21 +8,27 @@ Served as Vice Captain and Project Manager of the team, contributing to the desi
 ![image alt](https://github.com/TusharKanamaluru/Team-Torque-All-Terrain-Vehicle-ATVC-2024-/blob/4c782460d210d2538c9c9ef8a90a4e2ab88fbfff/cad_full_assembly.jpg)
 
 
-Vehicle Overview
-The vehicle is a unibody roll-cage design built around one clear priority: driver safety, without sacrificing performance on rough, unpredictable off-road terrain. Every subsystem was independently researched, designed, analyzed, and validated rather than copied from prior designs.
+## Vehicle Overview
 
-Key upgrades from the previous vehicle iteration:
+The vehicle was developed around a unibody roll-cage architecture with a primary focus on driver safety, reliability, and off-road performance. Rather than iterating on previous designs, every major subsystem was independently researched, designed, analyzed, and validated to achieve measurable improvements in performance, manufacturability, and vehicle dynamics.
 
-Specification	Old	New
-Drive	2WD	4WD
-Frame weight	27 kg	25.03 kg
-Overall length	2108.2 mm	1832.35 mm
-Overall width	1489.6 mm	966.79 mm
-Steering mechanism	Ackermann	Anti-Ackermann
-Steering ratio	12:1	6.4:1
-Top speed	53 kmph	56 kmph
-Max torque	520 Nm	524.20 Nm
-Gradeability	64%	65%
+As Vice Captain and Project Manager, I was involved in technical development as well as procurement planning, budgeting, sponsor coordination, and manufacturing execution, ensuring successful integration of engineering and project management activities throughout the vehicle development cycle.
+
+### Key Improvements Over Previous Iteration
+
+| Specification | Previous Vehicle | Current Vehicle |
+|--------------|----------------|----------------|
+| Drive Configuration | 2WD | 4WD |
+| Frame Weight | 27 kg | 25.03 kg |
+| Overall Length | 2108.2 mm | 1832.35 mm |
+| Overall Width | 1489.6 mm | 966.79 mm |
+| Steering Mechanism | Ackermann | Anti-Ackermann |
+| Steering Ratio | 12:1 | 6.4:1 |
+| Top Speed | 53 km/h | 56 km/h |
+| Maximum Torque | 520 Nm | 524.20 Nm |
+| Gradeability | 64% | 65% |
+
+The transition to a full-time **4WD drivetrain**, adoption of **Anti-Ackermann steering geometry**, reduction in vehicle dimensions and chassis weight, and comprehensive validation through engineering calculations, Ansys FEA, and MSC Adams simulations contributed to a more responsive, compact, and capable off-road platform.
 
 ### Key Achievements
 
