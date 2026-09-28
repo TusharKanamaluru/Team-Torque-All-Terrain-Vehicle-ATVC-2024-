@@ -41,6 +41,39 @@ The chassis was fabricated using **AISI 4130 chromoly steel tubing**, selected f
 ### Manufacturing and Quality Considerations
 All joints were **TIG welded**, with filler rod selection tailored to tube material and section thickness at each connection. Emphasis was placed on process consistency, manufacturability, and weld quality, following continuous improvement principles commonly associated with Kaizen and quality-focused manufacturing systems.
 
+<p align="center">
+  chasis%20isometric%20view.jpg
+</p>
+
+<p align="center">
+  <em>Figure 1: Isometric view of the ATV chassis highlighting the nose-type roll cage configuration, optimized member layout, and AISI 4130 chromoly steel construction developed for SAE ATVC 2024.</em>
+</p>
+
+
+./chasis%20front%20view.jpg
+
+*Figure 2. Front view of the chassis illustrating the nose-type roll cage architecture, optimized front-member placement, and compact vehicle packaging developed to enhance driver safety, structural efficiency, and manufacturability.*
+
+
+## CAE Validation
+
+Major load cases were simulated and validated using finite element analysis to evaluate structural integrity, deformation behaviour, and safety factors under competition-relevant operating conditions.
+
+| Test Case | Applied Load | Maximum Stress | Maximum Deformation | Factor of Safety |
+|------------|------------|------------|------------|------------|
+| Front Impact | 3G | 328.57 MPa | 10.36 mm | 1.4 |
+| Side Impact | 6G | 383.33 MPa | 10.82 mm | 1.2 |
+| Rear Impact | 3G | 262.85 MPa | 4.83 mm | 1.7 |
+| Rollover | 3G | 393.16 MPa | 12.66 mm | 1.1 |
+| Torsional | 1G | 255.55 MPa | 8.10 mm | 1.8 |
+| Bump | 1G | 403.50 MPa | 13.61 mm | 1.1 |
+
+![Roll Cagenalysis%20on%20roll%20cage.jpg
+
+*Figure 3. Ansys structural analysis of the roll cage used to validate chassis integrity across multiple impact and loading conditions before fabrication.*
+
+
+
 ---
 
 # Project Overview
