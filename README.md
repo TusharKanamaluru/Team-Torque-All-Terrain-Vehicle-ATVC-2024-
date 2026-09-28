@@ -185,4 +185,4 @@ Before this vehicle, the team competed in **BAJA SAEINDIA 2023**, physically qua
 | `Prelims_2023-24.pptx` | Prior-year (BAJA SAEINDIA 2023) design and lessons-learned presentation |
 | `images/` | CAD renders, kinematics analysis, and competition documentation |
 
-**Team Contact:** I. Rohan Aaron — Team Head
+**Team Contact:** I. Tushar Kanamaluri- Vice Captain and Project Manager
