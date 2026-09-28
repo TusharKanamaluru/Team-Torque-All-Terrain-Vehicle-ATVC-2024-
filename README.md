@@ -106,7 +106,7 @@ The reduction gearbox itself was designed using the Lewis-Buckingham equations, 
 <p align="center">
   <img width="1920" height="1030" alt="gearbox_fea" src="https://github.com/user-attachments/assets/bb3b2cfc-8084-43f8-90f2-49302e076686" />
 <br>
-  <em>Ansys structural analysis on the reduction gearbox gear stage, validating maximum principal stress against yield strength for the chosen EN353 gear material.</em>
+  <em>Figure 6- Ansys structural analysis on the reduction gearbox gear stage, validating maximum principal stress against yield strength for the chosen EN353 gear material.</em>
 </p>
 
 ---
