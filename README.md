@@ -90,18 +90,13 @@ The single biggest engineering change on this vehicle: converting from 2WD to a 
 
 **Why two different gear ratios front and rear?** The propeller shaft introduces power losses between the rear gearbox and front differential. Using a slightly higher ratio at the front (12.75:1 vs. 12:1 rear) compensates for that loss, ensuring both axles deliver equal torque to the ground — validated through hand-calculated tractive force and torque-balance equations, not just simulation.
 
-<p align="center">
-<img width="562" height="305" alt="drivetrain_layout" src="https://github.com/user-attachments/assets/ca4a6996-e530-49d6-ad5d-c8c7842a82fb" />
-br>
-  <em>Power train layout — engine and CVT feed the reduction gearbox, splitting power to the rear UV axles directly and to the front CV axles via propeller shaft and open differential.</em>
-</p>
-
-
 Drive axles use UV joints at the rear (better articulation, higher ground clearance) and CV joints at the front (tripod inboard, Rzeppa outboard, reducing power losses while accommodating steering and suspension travel simultaneously).
 
-
-  <em>Power train layout — engine and CVT feed the reduction gearbox, splitting power to the rear UV axles directly and to the front CV axles via propeller shaft and open differential.</em>
+<p align="center">
+<img width="562" height="305" alt="drivetrain_layout" src="https://github.com/user-attachments/assets/db84bd93-214d-4681-8a51-32438f6d503a" />
+<em>Power train layout — engine and CVT feed the reduction gearbox, splitting power to the rear UV axles directly and to the front CV axles via propeller shaft and open differential.</em>
 </p>
+
 
 **Result:** 4WD max acceleration of 5.72 m/s², max torque of 524.20 Nm, and a calculated top speed of 52.24 km/hr under 4WD load, all validated against hand calculations before the vehicle was ever tested.
 
