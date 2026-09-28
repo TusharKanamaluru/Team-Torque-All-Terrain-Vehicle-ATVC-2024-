@@ -1,9 +1,9 @@
-# All-Terrain Vehicle Development Project
-### Steering System Design and Project Management | Team Torque
+# Team: Team Torque, Vasavi College of Engineering Vehicle: 24172 | Competition: ATVC 2024 | Result: 3rd Place, Design Evaluation (19th overall / 120 teams)
 
 ## TL;DR
 
-Served as **Steering Lead and Project Manager** for Team Torque's All-Terrain Vehicle (ATV) development program. Designed and validated a rack-and-pinion steering system featuring **Anti-Ackerman geometry** using **MSC Adams simulations**, while simultaneously managing procurement, budgeting, sponsorship acquisition, manufacturing coordination, and project execution.
+Designed, fabricated, and competed with a full off-road all-terrain vehicle from the ground up — chassis, drivetrain, suspension, steering, and braking — for the SAE ATVC 2024 competition. The team converted from **2WD to a full-time 4WD system**, cut chassis weight from 27 kg to 25 kg while shrinking the footprint by over 25 cm in length, and validated every subsystem through hand calculations, Ansys FEA, and MSC Adams multibody dynamics before manufacturing. The vehicle placed **3rd in design evaluation out of 120 teams**. Prior to this, the team competed in **BAJA SAEINDIA 2023**, physically qualifying and racing at the NATRAX facility in Pithampur.
+
 
 ### Key Achievements
 
