@@ -75,6 +75,12 @@ Designed as a "nose" configuration, front bracing members don't extend to the fr
 | Torsional | 1G | 255.55 MPa | 8.10 mm | 1.8 |
 | Bump | 1G | 403.50 MPa | 13.61 mm | 1.1 |
 
+<p align="center">
+<img width="721" height="274" alt="cae_front_impact" src="https://github.com/user-attachments/assets/42af21a6-bef7-41ef-be44-cc46905e340e" />
+<em>Ansys Static Structural front-impact deformation analysis on the roll cage.</em>
+</p>
+
+
 
 
 ---
