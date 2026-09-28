@@ -14,7 +14,7 @@ Designed, fabricated, and competed with a full off-road all-terrain vehicle from
   </p>
 
 
-  <em>Figure 3. Complete CAD assembly of the SAE ATVC 2024 vehicle integrating the chassis, drivetrain, suspension, steering, braking, and powertrain subsystems.</em>
+  <em>Figure 1. Complete CAD assembly of the SAE ATVC 2024 vehicle integrating the chassis, drivetrain, suspension, steering, braking, and powertrain subsystems.</em>
 </p>
 
 
@@ -50,7 +50,9 @@ Designed as a "nose" configuration, front bracing members don't extend to the fr
 <table>
 <tr>
   <img width="396" height="448" alt="rollcage_front" src="https://github.com/user-attachments/assets/ea6b1bb7-4273-47ca-bfbb-ee6a2f7ac343" />
+  <em> front view</em></td>
   <img width="723" height="478" alt="rollcage_isometric" src="https://github.com/user-attachments/assets/7f24bb96-9326-4cb8-95f9-2b53778ef721" />
+  <em>Isometric view</em></td>
 
   
 </tr>
