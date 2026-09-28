@@ -19,7 +19,21 @@ Designed, fabricated, and competed with a full off-road all-terrain vehicle from
 
 
 
+## Project Management and Leadership
 
+Served as Vice Captain and Project Manager for a multidisciplinary team responsible for the design, analysis, procurement, manufacturing, validation, and competition deployment of the vehicle.
+
+Key responsibilities included:
+
+- Project planning and milestone tracking
+- Procurement and vendor coordination
+- Budget allocation and expense monitoring
+- Sponsorship acquisition and stakeholder engagement
+- Manufacturing scheduling
+- Cross-functional coordination between chassis, drivetrain, suspension, steering, and braking teams
+- Design review and technical decision support
+
+Managing the project alongside technical development provided first-hand experience in balancing engineering requirements, resource constraints, timelines, and team dynamics.
 
 ---
 
