@@ -32,11 +32,14 @@ The transition to a full-time **4WD drivetrain**, adoption of **Anti-Ackermann s
 Markdown
 ## Chassis
 
-The chassis was designed using a **nose-type roll cage configuration**, where the front bracing members do not extend directly to the front bumper. This layout was selected to help redirect and dissipate frontal impact loads away from the driver while also improving side ingress and egress during emergency situations.
- 
-The frame was fabricated using **AISI 4130 chromoly steel tubing**, chosen for its high strength-to-weight ratio and suitability for lightweight motorsport applications. Primary structural members utilized **1.15 in OD × 0.065 in wall thickness tubing**, while secondary members were constructed using **1.00 in OD tubing** to balance strength, packaging, and weight reduction objectives.
- 
-To ensure structural integrity and manufacturing quality, all joints were **TIG welded**, with filler rod selection tailored to the tube material and section thickness at each connection. This approach enabled precise weld control while maintaining the mechanical properties required for off-road competition conditions.
+### Safety-Driven Structural Design
+Designed using a **nose-type roll cage configuration**, where the front bracing members do not extend directly to the front bumper. This layout was selected to dissipate frontal impact loads away from the driver while improving side ingress and egress during emergency situations, reflecting a safety-first engineering philosophy.
+
+### Lightweight Design and Material Selection
+The chassis was fabricated using **AISI 4130 chromoly steel tubing**, selected for its high strength-to-weight ratio and suitability for off-road racing applications. Primary members utilized **1.15 in OD × 0.065 in wall thickness tubing**, while secondary members were constructed using **1.00 in OD tubing**, enabling weight reduction without compromising structural integrity. This approach aligns with lean engineering principles by maximizing performance while minimizing unnecessary material usage.
+
+### Manufacturing and Quality Considerations
+All joints were **TIG welded**, with filler rod selection tailored to tube material and section thickness at each connection. Emphasis was placed on process consistency, manufacturability, and weld quality, following continuous improvement principles commonly associated with Kaizen and quality-focused manufacturing systems.
 
 ---
 
