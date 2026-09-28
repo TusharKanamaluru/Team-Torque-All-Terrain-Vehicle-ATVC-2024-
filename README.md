@@ -122,7 +122,7 @@ All suspension arms (front A-arms and rear H-arms) are fabricated from AISI 4130
 <p align="center">
 <img width="1232" height="700" alt="adams_suspension_kinematics" src="https://github.com/user-attachments/assets/37bb2836-cf7d-4977-b5f9-ce46ef6b1a42" />
 </p>
-<p align="center"><em>MSC Adams suspension kinematics analysis, used to validate geometry, roll center location, and motion ratio before fabrication.</em></p>
+<p align="center"><em>Figure 7-MSC Adams suspension kinematics analysis, used to validate geometry, roll center location, and motion ratio before fabrication.</em></p>
 
 ---
 
