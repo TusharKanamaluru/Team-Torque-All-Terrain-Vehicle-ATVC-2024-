@@ -10,7 +10,7 @@
 Designed, fabricated, and competed with a full off-road all-terrain vehicle from the ground up — chassis, drivetrain, suspension, steering, and braking — for the SAE ATVC 2024 competition. The team converted from 2WD to a full-time **4WD system**, cut chassis weight from 27 kg to 25 kg while shrinking the footprint by over 25 cm in length, and validated every subsystem through hand calculations, Ansys FEA, and MSC Adams multibody dynamics before manufacturing. The vehicle placed **3rd in design evaluation out of 120 teams**. Prior to this, the team competed in **BAJA SAEINDIA 2023**, physically qualifying and racing at the NATRAX facility in Pithampur.
 
 <p align="center">
-  <img src="images/cad_full_assembly.jpg" width="700">
+  <img src="[images/cad_full_assembly.jpg](https://github.com/TusharKanamaluru/Team-Torque-All-Terrain-Vehicle-ATVC-2024-/blob/71d1c82559f7d70010b57fcb059b5333de849995/cad_full_assembly.jpg)" width="700">
 </p>
 
 
