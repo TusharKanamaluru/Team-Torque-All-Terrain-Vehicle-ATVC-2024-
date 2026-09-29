@@ -1,6 +1,11 @@
 
-## Migration Steps
-
-### 1. Create the images directory
 ```bash
 mkdir -p images
+# Move specific identified images
+mv in_layout.jpg images/
+mv gearbox_fea.png images/
+mv rollcage_front.jpg images/
+mv rollcage_isometric.jpg images/
+
+# Or, move all image files at once (from root):
+find . -maxdepth 1 -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.gif" -o -iname "*.webp" -o -iname "*.svg" \) -exec mv {} images/ \;
