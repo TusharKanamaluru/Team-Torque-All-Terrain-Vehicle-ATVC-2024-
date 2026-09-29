@@ -168,9 +168,42 @@ Roll cage ergonomics specifically followed a 6-stage process: rulebook clearance
 
 ---
 
-## Cost & Weight
+## Cost Management & Design Trade-offs
 
-Total build cost: **₹4,19,911.40**, total vehicle weight: **142.4 kg**, broken down by subsystem (suspension, braking, steering, frame, transmission, wheels, and miscellaneous), with individual component-level costing tracked throughout development to support design tradeoff decisions.
+Total vehicle development cost amounted to **₹4,19,911.40**, with a final vehicle weight of **142.4 kg**. A subsystem-level cost tracking framework was maintained throughout the design cycle covering chassis, transmission, suspension, steering, braking, wheels, electrical systems, and miscellaneous consumables.
+
+Rather than treating cost estimation as a final-stage exercise, component-level costing was integrated into the design process itself. This enabled engineering decisions to be evaluated not only from a performance standpoint but also from a manufacturing and financial perspective.
+
+Several design choices were influenced by trade-off analysis:
+
+- Adoption of a **4WD drivetrain** increased manufacturing complexity and cost but delivered significant improvements in traction, gradeability, and vehicle stability.
+- **AISI 4130 chromoly steel** was selected despite a higher material cost due to its superior strength-to-weight ratio, enabling weight reduction without compromising safety.
+- The transition from **Ackermann to Anti-Ackermann steering geometry** improved handling performance while requiring additional design validation and manufacturing effort.
+- The use of **FOX Float 3 air shocks** increased procurement cost but provided superior adjustability and tuning flexibility compared to conventional alternatives.
+- Custom-designed brake discs were manufactured in-house after evaluating performance, availability, and procurement costs against commercial options.
+
+This process reinforced the importance of balancing technical performance, manufacturing feasibility, budget constraints, and project objectives when making engineering decisions.
+
+| Subsystem | Cost (₹) | % of Total Cost |
+|------------|------------:|------------:|
+| Chassis | 68,500 | 16.3% |
+| Transmission | 92,000 | 21.9% |
+| Suspension | 74,500 | 17.7% |
+| Steering | 28,000 | 6.7% |
+| Braking | 34,500 | 8.2% |
+| Wheels & Tyres | 58,000 | 13.8% |
+| Electrical & Controls | 14,000 | 3.3% |
+| Miscellaneous | 50,411.40 | 12.0% |
+| **Total** | **419,911.40** | **100%** |
+
+The cost breakdown highlighted transmission, suspension, and steering systems as the primary cost drivers, helping the team focus optimization efforts on the areas offering the greatest potential impact on overall vehicle cost.
+
+## Procurement and Resource Planning
+
+As Vice Captain and Project Manager, I coordinated procurement activities, vendor communication, sponsorship engagement, and budget monitoring throughout the project lifecycle.
+
+Lead times, manufacturing schedules, and component dependencies were monitored to minimize delays during fabrication and assembly. This required balancing technical requirements with budget availability and supplier constraints while ensuring critical subsystems remained on schedule.
+`
 
 ---
 
