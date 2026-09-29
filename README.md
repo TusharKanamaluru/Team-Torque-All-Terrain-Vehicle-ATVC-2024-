@@ -168,40 +168,41 @@ Roll cage ergonomics specifically followed a 6-stage process: rulebook clearance
 
 ---
 
-## Cost Management & Design Trade-offs
+## Cost Management & Design Trade-Offs
 
-Total vehicle development cost amounted to **₹4,19,911.40**, with a final vehicle weight of **142.4 kg**. A subsystem-level cost tracking framework was maintained throughout the design cycle covering chassis, transmission, suspension, steering, braking, wheels, electrical systems, and miscellaneous consumables.
+Total vehicle development cost amounted to **₹4,19,911.40**, with a final vehicle weight of **142.4 kg**. A subsystem-level cost tracking framework was maintained throughout the design cycle to support engineering trade-off decisions, procurement planning, and resource allocation.
 
-Rather than treating cost estimation as a final-stage exercise, component-level costing was integrated into the design process itself. This enabled engineering decisions to be evaluated not only from a performance standpoint but also from a manufacturing and financial perspective.
+Rather than treating cost estimation as a final-stage exercise, component-level costing was integrated into the design process itself. This enabled design decisions to be evaluated not only from a performance standpoint but also from manufacturing, procurement, and financial perspectives.
 
-Several design choices were influenced by trade-off analysis:
+### Cost and Weight Breakdown
 
-- Adoption of a **4WD drivetrain** increased manufacturing complexity and cost but delivered significant improvements in traction, gradeability, and vehicle stability.
-- **AISI 4130 chromoly steel** was selected despite a higher material cost due to its superior strength-to-weight ratio, enabling weight reduction without compromising safety.
-- The transition from **Ackermann to Anti-Ackermann steering geometry** improved handling performance while requiring additional design validation and manufacturing effort.
-- The use of **FOX Float 3 air shocks** increased procurement cost but provided superior adjustability and tuning flexibility compared to conventional alternatives.
-- Custom-designed brake discs were manufactured in-house after evaluating performance, availability, and procurement costs against commercial options.
+| Subsystem | Cost (₹) | Weight (kg) | Cost Share (%) | Weight Share (%) |
+|------------|------------:|------------:|------------:|------------:|
+| Suspension | 89,191.40 | 17.6 | 21.24 | 12.36 |
+| Braking | 7,323.00 | 6.25 | 1.74 | 4.39 |
+| Steering | 10,645.00 | 5.0 | 2.53 | 3.51 |
+| Frame | 30,247.00 | 23.5 | 7.20 | 16.50 |
+| Transmission | 238,597.00 | 49.8 | 56.82 | 34.97 |
+| Wheels & Tyres | 84,800.00 | 22.4 | 20.19 | 15.73 |
+| Miscellaneous & Electrical | 17,350.00 | 8.75 | 4.13 | 6.14 |
+| **Total** | **419,911.40** | **142.4** | **100.00** | **100.00** |
 
-This process reinforced the importance of balancing technical performance, manufacturing feasibility, budget constraints, and project objectives when making engineering decisions.
+### Key Engineering Decisions
 
-| Subsystem | Cost (₹) | % of Total Cost |
-|------------|------------:|------------:|
-| Chassis | 68,500 | 16.3% |
-| Transmission | 92,000 | 21.9% |
-| Suspension | 74,500 | 17.7% |
-| Steering | 28,000 | 6.7% |
-| Braking | 34,500 | 8.2% |
-| Wheels & Tyres | 58,000 | 13.8% |
-| Electrical & Controls | 14,000 | 3.3% |
-| Miscellaneous | 50,411.40 | 12.0% |
-| **Total** | **419,911.40** | **100%** |
+- The transition to a **full-time 4WD drivetrain** accounted for the largest share of both cost and weight, increasing system complexity while delivering significant improvements in traction, gradeability, and overall vehicle capability.
+- **AISI 4130 chromoly steel** was selected despite its higher material cost due to its superior strength-to-weight ratio, enabling a reduction in chassis weight without compromising safety.
+- **FOX Float 3 air shocks** increased procurement expenditure but provided greater adjustability and tuning capability than conventional alternatives.
+- Custom-designed brake rotors were manufactured in-house after evaluating performance requirements, lead times, and procurement costs against commercially available solutions.
+- System-level decisions were continuously evaluated against their impact on performance, manufacturability, budget constraints, and schedule adherence.
 
-The cost breakdown highlighted transmission, suspension, and steering systems as the primary cost drivers, helping the team focus optimization efforts on the areas offering the greatest potential impact on overall vehicle cost.
+### Managerial Takeaway
+
+Cost was treated as a design parameter rather than an accounting metric. Throughout the project, engineering decisions were assessed based on their influence on performance, weight, manufacturability, procurement complexity, and overall project budget. This experience provided valuable exposure to resource allocation, trade-off analysis, and project-level decision-making under real-world constraints.
+
 
 ## Procurement and Resource Planning
 
 As Vice Captain and Project Manager, I coordinated procurement activities, vendor communication, sponsorship engagement, and budget monitoring throughout the project lifecycle.
-
 Lead times, manufacturing schedules, and component dependencies were monitored to minimize delays during fabrication and assembly. This required balancing technical requirements with budget availability and supplier constraints while ensuring critical subsystems remained on schedule.
 `
 
