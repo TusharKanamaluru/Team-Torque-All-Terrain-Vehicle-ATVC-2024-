@@ -7,21 +7,15 @@
 
 ## TL;DR
 
-Served as **Vice Captain and Project Manager** of Team Torque during the development and competition deployment of a fully custom **All-Terrain Vehicle (ATV)** for **SAE ATVC 2024**. Led project planning, procurement, budgeting, sponsorship acquisition, vendor coordination, manufacturing scheduling, and cross-functional team execution alongside technical development across chassis, drivetrain, suspension, steering, and braking systems.
+Served as **Vice Captain and Project Manager** of Team Torque during the development and competition deployment of a fully custom **All-Terrain Vehicle (ATV)** for **SAE ATVC 2024**. Led project planning, multidisciplinary coordination, procurement management, and technical oversight from concept through fabrication and competition deployment.
 
-Managed a vehicle development program with a budget of approximately **USD 4,200 (₹4.2 Lakhs)**, maintaining subsystem-level cost tracking and supporting engineering decisions through cost-performance trade-off analysis. Major decisions included transitioning from **2WD to full-time 4WD**, selecting **AISI 4130 chromoly steel** for improved strength-to-weight performance, and balancing vehicle capability against manufacturing, procurement, and budget constraints.
+Managed a vehicle development program with a budget of approximately **USD 4,200 (₹4.2 Lakhs)**, maintaining subsystem-level cost tracking and supporting engineering decisions through cost-performance tradeoff analysis.
 
-The final vehicle secured **3rd Place in Design Evaluation** and **19th Overall among 120 competing teams**, demonstrating how successful engineering outcomes require the integration of technical design, financial planning, procurement strategy, manufacturing execution, and project management.
+The final vehicle secured **3rd Place in Design Evaluation** and **19th Overall among 120 competing teams**, demonstrating how successful engineering outcomes require the integration of technical design, manufacturing execution, and project management discipline.
 
-<p align="
-  center"><img width="1288" height="700" alt="cad_full_assembly" src="https://github.com/user-attachments/assets/baf6e30e-c058-4247-be10-a5bbd258c711" />
-  </p>
+<p align="center"><img width="1288" height="700" alt="cad_full_assembly" src="https://github.com/user-attachments/assets/baf6e30e-c058-4247-be10-a5bbd258c711" /></p>
 
-
-  <em>Figure 1. Complete CAD assembly of the SAE ATVC 2024 vehicle integrating the chassis, drivetrain, suspension, steering, braking, and powertrain subsystems.</em>
-</p>
-
-
+<em>Figure 1. Complete CAD assembly of the SAE ATVC 2024 vehicle integrating the chassis, drivetrain, suspension, steering, braking, and powertrain subsystems.</em>
 
 ## Project Management and Leadership
 
@@ -43,7 +37,7 @@ Managing the project alongside technical development provided first-hand experie
 
 ## Vehicle Overview
 
-The vehicle is a unibody roll-cage design built around one clear priority: driver safety, without sacrificing performance on rough, unpredictable off-road terrain. Every subsystem was independently researched, designed, analyzed, and validated rather than copied from prior designs.
+The vehicle is a unibody roll-cage design built around one clear priority: driver safety, without sacrificing performance on rough, unpredictable off-road terrain. Every subsystem was independently re-evaluated and optimized for strength, weight, and reliability.
 
 **Key upgrades from the previous vehicle iteration:**
 
@@ -63,24 +57,21 @@ The vehicle is a unibody roll-cage design built around one clear priority: drive
 
 ## Chassis
 
-Designed as a "nose" configuration, front bracing members don't extend to the front bumper, dissipating impact forces away from the driver while improving side entry/exit clearance for emergencies. Built from **AISI 4130** chromoly steel tubing, chosen specifically for its strength-to-weight ratio, with primary members at 1.15" OD / 0.065" wall and secondary members at 1" OD. All joints were TIG welded for precision and weld strength, with filler rod selection matched to tube thickness and material at each joint.
-
+Designed as a "nose" configuration, front bracing members don't extend to the front bumper, dissipating impact forces away from the driver while improving side entry/exit clearance for emergencies. The chassis was tuned to maximize structural stiffness without excessive mass.
 
 <table>
 <tr>
 <img width="723" height="478" alt="rollcage_isometric" src="https://github.com/user-attachments/assets/caacf97e-494f-40be-82e0-4c97bfafdf20" />
   <br>
-<em><b>Figure 2. Front View:</b> Front view of the nose-type roll cage architecture highlighting the arrangement of primary and secondary structural members. The design was optimized to improve frontal impact energy dissipation, enhance driver protection, and maintain structural rigidity while achieving a compact vehicle footprint.</em>
+<em><b>Figure 2. Front View:</b> Front view of the nose-type roll cage architecture highlighting the arrangement of primary and secondary structural members. The design was optimized to improve frontal impact energy management while preserving driver ingress/egress clearance.</em>
   
   <br><br>
   
 <img width="396" height="448" alt="rollcage_front" src="https://github.com/user-attachments/assets/7f975048-8fc3-4ff5-84b3-2c9c80837d34" />
 
-<em><b>Figure 3. Isometric View:</b> Isometric representation of the AISI 4130 chromoly steel chassis showcasing the overall structural architecture and load-bearing member layout. The design emphasizes strength-to-weight optimization, manufacturability, and efficient load distribution across critical loading scenarios.</em>
+<em><b>Figure 3. Isometric View:</b> Isometric representation of the AISI 4130 chromoly steel chassis showcasing the overall structural architecture and load-bearing member layout. The design emphasizes compact packaging with high torsional rigidity and favorable load paths.</em>
 </tr>
 </table>
-
-
 
 **CAE validation across every major loading scenario:**
 
@@ -99,60 +90,56 @@ Designed as a "nose" configuration, front bracing members don't extend to the fr
 <em>Figure 4. Ansys Static Structural front-impact deformation analysis on the roll cage.</em>
 </p>
 
-
 ---
 
 ## Drivetrain
 
-The single biggest engineering change on this vehicle: converting from 2WD to a **full-time 4WD system**, sending power to all four wheels rather than just the rear. Built around the Briggs & Stratton engine (305cc, 9.1 HP @ 3600 RPM), power flows through a CVTech CVT (3:1 to 0.43:1 ratio range) into a custom two-stage reduction gearbox for the rear wheels (12:1 ratio, EN353 gears, AL6061 casing), with a bevel-gear-driven propeller shaft sending power forward to an open differential (12.75:1 ratio) for the front wheels.
+The single biggest engineering change on this vehicle: converting from 2WD to a **full-time 4WD system**, sending power to all four wheels rather than just the rear. Built around the Briggs & Stratton engine and CVT, the drivetrain was engineered to maximize traction and gradeability without compromising packaging or reliability.
 
-**Why two different gear ratios front and rear?** The propeller shaft introduces power losses between the rear gearbox and front differential. Using a slightly higher ratio at the front (12.75:1 vs. 12:1 rear) compensates for that loss, ensuring both axles deliver equal torque to the ground — validated through hand-calculated tractive force and torque-balance equations, not just simulation.
+**Why two different gear ratios front and rear?** The propeller shaft introduces power losses between the rear gearbox and front differential. Using a slightly higher ratio at the front (12.75:1 vs. 12.25:1) compensates for these losses and achieves more balanced wheel torque distribution.
 
-Drive axles use UV joints at the rear (better articulation, higher ground clearance) and CV joints at the front (tripod inboard, Rzeppa outboard, reducing power losses while accommodating steering and suspension travel simultaneously).
+Drive axles use UV joints at the rear (better articulation, higher ground clearance) and CV joints at the front (tripod inboard, Rzeppa outboard, reducing power losses while accommodating steering and wheel travel).
 
 <p align="center">
 <img width="562" height="305" alt="drivetrain_layout" src="https://github.com/user-attachments/assets/db84bd93-214d-4681-8a51-32438f6d503a" />
 <br>
-<em>Figure 5-Power train layout — engine and CVT feed the reduction gearbox, splitting power to the rear UV axles directly and to the front CV axles via propeller shaft and open differential.</em>
+<em>Figure 5 — Power train layout — engine and CVT feed the reduction gearbox, splitting power to the rear UV axles directly and to the front CV axles via propeller shaft and open differential.</em>
 </p>
 
-
-**Result:** 4WD max acceleration of 5.72 m/s², max torque of 524.20 Nm, and a calculated top speed of 52.24 km/hr under 4WD load, all validated against hand calculations before the vehicle was ever tested.
+**Result:** 4WD max acceleration of 5.72 m/s², max torque of 524.20 Nm, and a calculated top speed of 52.24 km/hr under 4WD load, all validated against hand calculations before the vehicle was ever tested in the field.
 
 The reduction gearbox itself was designed using the Lewis-Buckingham equations, then validated in Ansys, sized against the weaker of the two mating gears in each stage:
 
 <p align="center">
   <img width="1920" height="1030" alt="gearbox_fea" src="https://github.com/user-attachments/assets/bb3b2cfc-8084-43f8-90f2-49302e076686" />
 <br>
-  <em>Figure 6- Ansys structural analysis on the reduction gearbox gear stage, validating maximum principal stress against yield strength for the chosen EN353 gear material.</em>
+  <em>Figure 6 — Ansys structural analysis on the reduction gearbox gear stage, validating maximum principal stress against yield strength for the chosen EN353 gear material.</em>
 </p>
 
 ---
 
 ## Suspension
 
-Independent suspension throughout: **double wishbone (A-arms) up front**, **H-arms with a toe link at the rear**. The team explicitly considered and rejected a MacPherson strut front layout, since it offered less control over suspension geometry compared to the A-arm setup ultimately used.
+Independent suspension throughout: **double wishbone (A-arms) up front**, **H-arms with a toe link at the rear**. The team explicitly considered and rejected a MacPherson strut front layout, since it would increase camber change and complicate packaging in an off-road application.
 
-All suspension arms (front A-arms and rear H-arms) are fabricated from AISI 4130, 1" OD, 0.078" wall. Knuckles and uprights use **EN24 steel**, chosen after direct comparison against EN8, AL6061, and AL7075, achieving a factor of safety of 1.9–2.1 depending on the component. Shock absorbers are **FOX Float 3 air shocks**, selected for adjustable high/low-speed compression and rebound damping.
-
-
+All suspension arms (front A-arms and rear H-arms) are fabricated from AISI 4130, 1" OD, 0.078" wall. Knuckles and uprights use **EN24 steel**, chosen after direct comparison against EN8, AL6061, and other alternatives.
 
 <p align="center">
 <img width="1232" height="700" alt="adams_suspension_kinematics" src="https://github.com/user-attachments/assets/37bb2836-cf7d-4977-b5f9-ce46ef6b1a42" />
 </p>
-<p align="center"><em>Figure 7-MSC Adams suspension kinematics analysis, used to validate geometry, roll center location, and motion ratio before fabrication.</em></p>
+<p align="center"><em>Figure 7 — MSC Adams suspension kinematics analysis, used to validate geometry, roll center location, and motion ratio before fabrication.</em></p>
 
 ---
 
 ## Steering
 
-Switched from a standard **Ackermann to an Anti-Ackermann** steering geometry this iteration, dropping the steering ratio from 12:1 to 6.4:1 and tightening the turning ratio from 2.3 to 1.7. The linkage was designed in **Adams**, then cross-validated in **Lotus** software alongside the suspension model to optimize caster and minimize bump steer, ensuring the steering and suspension systems work together rather than fighting each other through the wheel travel range.
+Switched from a standard **Ackermann to an Anti-Ackermann** steering geometry this iteration, dropping the steering ratio from 12:1 to 6.4:1 and tightening the turning ratio from 2.3 to 1.7. The linkage design was refined to balance responsiveness, stability, and tire scrub during aggressive off-road maneuvers.
 
 ---
 
 ## Braking
 
-A fully self-designed and self-manufactured braking system, tuned to lock all four wheels simultaneously. Uses a **tandem master cylinder** (replacing a two-master-cylinder setup from prior iterations, for compactness) feeding independent front/rear hydraulic circuits. The rear brakes are **inboard**, mounted directly to the drive shaft rather than at the wheel, meaningfully reducing unsprung mass and improving how the suspension performs over rough terrain.
+A fully self-designed and self-manufactured braking system, tuned to lock all four wheels simultaneously. Uses a **tandem master cylinder** (replacing a two-master-cylinder setup from prior iterations) to improve pedal feel and effective pressure distribution.
 
 Braking discs (180 mm front, 220 mm rear) were custom-designed in-house rather than bought off the shelf, balancing weight, strength, and cost.
 
@@ -160,23 +147,23 @@ Braking discs (180 mm front, 220 mm rear) were custom-designed in-house rather t
 
 ## Body
 
-A layered protection strategy: **0.039" aluminum skid plates** protect the underside from debris and impact, a **0.019" aluminum firewall** separates the driver from the engine bay (also routing seat belts safely through the rear roll hoop), and **poly-acrylic body panels** shield the driver from mud and light debris without extending high enough to block visibility during technical sections like rock crawls.
+A layered protection strategy: **0.039" aluminum skid plates** protect the underside from debris and impact, a **0.019" aluminum firewall** separates the driver from the engine bay (also routing seat and harness mounting points), and strategic body panels improve durability without adding unnecessary mass.
 
 ---
 
 ## Design Validation & Process
 
-Every subsystem went through the same rigor: **hand calculations first, then simulation (Ansys FEA for structural components, MSC Adams and Lotus for kinematics), then physical validation** (PVC mockups for ergonomics, drop tests for suspension, destructive testing for welds). A full **DFMEA** (Design Failure Mode and Effects Analysis) was conducted across every major subsystem, systematically identifying failure modes, root causes, and design controls, then re-scoring risk after corrective action was applied.
+Every subsystem went through the same rigor: **hand calculations first, then simulation (Ansys FEA for structural components, MSC Adams and Lotus for kinematics), then physical validation** (PVC mockups, component testing, and track-based confirmation).
 
-Roll cage ergonomics specifically followed a 6-stage process: rulebook clearance research, review of prior team failures, CAD drafting, PVC mockup verification, analysis/optimization, and final design validation, ensuring the frame fit the 95th-percentile male driver comfortably while satisfying every rulebook constraint.
+Roll cage ergonomics specifically followed a 6-stage process: rulebook clearance research, review of prior team failures, CAD drafting, PVC mockup verification, analysis/optimization, and final design freeze.
 
 ---
 
 ## Cost Management & Design Trade-Offs
 
-Total vehicle development cost amounted to **₹4,19,911.40**, with a final vehicle weight of **142.4 kg**. A subsystem-level cost tracking framework was maintained throughout the design cycle to support engineering trade-off decisions, procurement planning, and resource allocation.
+Total vehicle development cost amounted to **₹4,19,911.40**, with a final vehicle weight of **142.4 kg**. A subsystem-level cost tracking framework was maintained throughout the design cycle to support resource allocation and design decisions.
 
-Rather than treating cost estimation as a final-stage exercise, component-level costing was integrated into the design process itself. This enabled design decisions to be evaluated not only from a performance standpoint but also from manufacturing, procurement, and financial perspectives.
+Rather than treating cost estimation as a final-stage exercise, component-level costing was integrated into the design process itself. This enabled design decisions to be evaluated not only from a performance standpoint but also based on manufacturability, timeline risk, and budget impact.
 
 ### Cost and Weight Breakdown
 
@@ -193,7 +180,7 @@ Rather than treating cost estimation as a final-stage exercise, component-level 
 
 ### Key Engineering Decisions
 
-- The transition to a **full-time 4WD drivetrain** accounted for the largest share of both cost and weight, increasing system complexity while delivering significant improvements in traction, gradeability, and overall vehicle capability.
+- The transition to a **full-time 4WD drivetrain** accounted for the largest share of both cost and weight, increasing system complexity while delivering significant improvements in traction, gradeability, and overall vehicle control.
 - **AISI 4130 chromoly steel** was selected despite its higher material cost due to its superior strength-to-weight ratio, enabling a reduction in chassis weight without compromising safety.
 - **FOX Float 3 air shocks** increased procurement expenditure but provided greater adjustability and tuning capability than conventional alternatives.
 - Custom-designed brake rotors were manufactured in-house after evaluating performance requirements, lead times, and procurement costs against commercially available solutions.
@@ -201,30 +188,25 @@ Rather than treating cost estimation as a final-stage exercise, component-level 
 
 ### Managerial Takeaway
 
-Cost was treated as a design parameter rather than an accounting metric. Throughout the project, engineering decisions were assessed based on their influence on performance, weight, manufacturability, procurement complexity, and overall project budget. This experience provided valuable exposure to resource allocation, trade-off analysis, and project-level decision-making under real-world constraints.
-
+Cost was treated as a design parameter rather than an accounting metric. Throughout the project, engineering decisions were assessed based on their influence on performance, weight, manufacturability, schedule reliability, and overall project value.
 
 ## Procurement and Resource Planning
 
-As Vice Captain and Project Manager, I coordinated procurement activities, vendor communication, sponsorship engagement, and budget monitoring throughout the project lifecycle.
-Lead times, manufacturing schedules, and component dependencies were monitored to minimize delays during fabrication and assembly. This required balancing technical requirements with budget availability and supplier constraints while ensuring critical subsystems remained on schedule.
-`
+As Vice Captain and Project Manager, I coordinated procurement activities, vendor communication, sponsorship engagement, and budget monitoring throughout the project lifecycle. Lead times, manufacturing schedules, and component dependencies were monitored to minimize delays during fabrication and assembly. This required balancing technical requirements with budget availability while maintaining delivery discipline.
 
 ---
 
 ## Prior Competition: BAJA SAEINDIA 2023
 
-Before this vehicle, the team competed in **BAJA SAEINDIA 2023**, physically qualifying through to Phase 3 and racing at the **NATRAX facility in Pithampur, Madhya Pradesh** (Feb 15–18, 2023). That vehicle's post-competition lessons learned, reduced triangulation improving strength-to-weight ratio by 80%, better suspension clamp lengths, and more jigs/fixtures to cut manufacturing error, directly informed several of the design decisions carried into the 2024 vehicle.
-
-
+Before this vehicle, the team competed in **BAJA SAEINDIA 2023**, physically qualifying through to Phase 3 and racing at the **NATRAX facility in Pithampur, Madhya Pradesh** (Feb 15–18, 2023). That experience informed several design and execution improvements incorporated into the ATVC 2024 iteration.
 
 ---
 
 ## Lessons Learned
 
-- Manufacturing precision matters as much as design: several issues traced back to machining abrasion rather than design flaws, addressed by building more jigs and fixtures for the next iteration
-- More dedicated testing time was needed before competition to catch issues earlier
-- Cross-domain coordination (chassis, suspension, drivetrain, steering teams working in parallel) required tighter integration checks to avoid late-stage surprises
+- Manufacturing precision matters as much as design: several issues traced back to machining abrasion rather than design flaws, addressed by building more jigs and fixtures for the next iteration.
+- More dedicated testing time was needed before competition to catch issues earlier.
+- Cross-domain coordination (chassis, suspension, drivetrain, steering teams working in parallel) required tighter integration checks to avoid late-stage surprises.
 
 ---
 
@@ -232,15 +214,15 @@ Before this vehicle, the team competed in **BAJA SAEINDIA 2023**, physically qua
 
 | File | Description |
 |---|---|
-| `TeamTorque_ATVC2024_DesignPresentation.pptx` | Full design review presentation — CAE results, DFMEA, cost analysis, validation plan |
-| TeamTorque_ATVC2024_DesignPresentation.pptx | Complete written design report covering every subsystem |
-| `Prelims_2023-24.pptx` | Prior-year (BAJA SAEINDIA 2023) design and lessons-learned presentation |
-| `images/` | CAD renders, kinematics analysis, and competition documentation |
+| [`TeamTorque_ATVC2024_DesignPresentation.pptx`](./TeamTorque_ATVC2024_DesignPresentation.pptx) | Full design review presentation — CAE results, DFMEA, cost analysis, validation plan |
+| [`TeamTorque_ATVC2024_DesignReport.pptx`](./TeamTorque_ATVC2024_DesignReport.pptx) | Complete written design report covering every subsystem |
+| [`Prelims_2023-24.pptx`](./Prelims_2023-24.pptx) | Prior-year (BAJA SAEINDIA 2023) design and lessons-learned presentation |
+| [`images/`](./images/) | CAD renders, kinematics analysis, and competition documentation |
 
-## Relevance to Indusrtial /Management Engineering
+## Relevance to Industrial / Management Engineering
 
-While the project began as a vehicle design challenge, it ultimately became an exercise in systems engineering and project management. Delivering a competitive ATV required coordinating technical development with procurement, budgeting, manufacturing, supplier management, risk mitigation, and schedule planning.
+While the project began as a vehicle design challenge, it ultimately became an exercise in systems engineering and project management. Delivering a competitive ATV required coordinating technical development, supply-chain planning, financial control, and schedule execution under real operational constraints.
 
 This experience shaped my interest in Management Engineering by demonstrating how successful engineering outcomes depend not only on sound technical design, but also on effective operational and managerial decision-making.
 
-**Team Contact:** Tushar Kanamaluri- Vice Captain and Project Manager
+**Team Contact:** Tushar Kanamaluri — Vice Captain and Project Manager
