@@ -7,7 +7,11 @@
 
 ## TL;DR
 
-Designed, fabricated, and competed with a full off-road all-terrain vehicle from the ground up — chassis, drivetrain, suspension, steering, and braking — for the SAE ATVC 2024 competition. The team converted from 2WD to a full-time **4WD system**, cut chassis weight from 27 kg to 25 kg while shrinking the footprint by over 25 cm in length, and validated every subsystem through hand calculations, Ansys FEA, and MSC Adams multibody dynamics before manufacturing. The vehicle placed **3rd in design evaluation out of 120 teams**. Prior to this, the team competed in **BAJA SAEINDIA 2023**, physically qualifying and racing at the NATRAX facility in Pithampur.
+Served as **Vice Captain and Project Manager** of Team Torque during the development and competition deployment of a fully custom **All-Terrain Vehicle (ATV)** for **SAE ATVC 2024**. Led project planning, procurement, budgeting, sponsorship acquisition, vendor coordination, manufacturing scheduling, and cross-functional team execution alongside technical development across chassis, drivetrain, suspension, steering, and braking systems.
+
+Managed a vehicle development program with a budget of approximately **USD 4,200 (₹4.2 Lakhs)**, maintaining subsystem-level cost tracking and supporting engineering decisions through cost-performance trade-off analysis. Major decisions included transitioning from **2WD to full-time 4WD**, selecting **AISI 4130 chromoly steel** for improved strength-to-weight performance, and balancing vehicle capability against manufacturing, procurement, and budget constraints.
+
+The final vehicle secured **3rd Place in Design Evaluation** and **19th Overall among 120 competing teams**, demonstrating how successful engineering outcomes require the integration of technical design, financial planning, procurement strategy, manufacturing execution, and project management.
 
 <p align="
   center"><img width="1288" height="700" alt="cad_full_assembly" src="https://github.com/user-attachments/assets/baf6e30e-c058-4247-be10-a5bbd258c711" />
