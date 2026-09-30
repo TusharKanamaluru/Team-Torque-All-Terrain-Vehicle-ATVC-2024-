@@ -233,7 +233,7 @@ Before this vehicle, the team competed in **BAJA SAEINDIA 2023**, physically qua
 | File | Description |
 |---|---|
 | `TeamTorque_ATVC2024_DesignPresentation.pptx` | Full design review presentation — CAE results, DFMEA, cost analysis, validation plan |
-| `Copy_of_24172_TeamTorque_Design_Report_1.pdf` | Complete written design report covering every subsystem |
+| TeamTorque_ATVC2024_DesignPresentation.pptx | Complete written design report covering every subsystem |
 | `Prelims_2023-24.pptx` | Prior-year (BAJA SAEINDIA 2023) design and lessons-learned presentation |
 | `images/` | CAD renders, kinematics analysis, and competition documentation |
 
