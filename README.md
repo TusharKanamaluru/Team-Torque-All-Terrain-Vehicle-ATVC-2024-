@@ -219,10 +219,6 @@ Before this vehicle, the team competed in **BAJA SAEINDIA 2023**, physically qua
 | [`Prelims_2023-24.pptx`](./Prelims_2023-24.pptx) | Prior-year (BAJA SAEINDIA 2023) design and lessons-learned presentation |
 | [`images/`](./images/) | CAD renders, kinematics analysis, and competition documentation |
 
-## Relevance to Industrial / Management Engineering
 
-While the project began as a vehicle design challenge, it ultimately became an exercise in systems engineering and project management. Delivering a competitive ATV required coordinating technical development, supply-chain planning, financial control, and schedule execution under real operational constraints.
 
-This experience shaped my interest in Management Engineering by demonstrating how successful engineering outcomes depend not only on sound technical design, but also on effective operational and managerial decision-making.
-
-**Team Contact:** Tushar Kanamaluri — Vice Captain and Project Manager
+**Team Contact:** Tushar Kanamaluri — Vice Captain and Project Manager of Team Torque
